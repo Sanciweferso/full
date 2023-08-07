@@ -1,0 +1,27 @@
+*{
+   
+}
+ol{
+    list-style: circle;
+}
+.cc{
+   margin: 0 auto;
+
+}
+.container{
+    background-color: blueviolet;
+   max-width: 60%;
+   margin: 0 auto;
+  
+   
+}
+li{
+    padding: 5px 2px;
+   
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
